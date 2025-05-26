@@ -1,1 +1,1 @@
-# C-Users-User-Desktop-GOIT-My_repo-Basic-Algorithms-and-Data-Structures
+# Basic-Algorithms-and-Data-Structures
